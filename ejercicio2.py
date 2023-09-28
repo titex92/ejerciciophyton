@@ -1,0 +1,5 @@
+print ("ejercicio 2")
+name = input ("Ingresa tu nombre completo: ")
+print(name.lower())
+print(name.upper())
+print(name.capitalize())
